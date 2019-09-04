@@ -13,8 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Isogram\Isogram.csproj" />
-    <ProjectReference Include="..\isogram-csharp-problem\ISogram.csproj" />
+    <ProjectReference Include="..\isogram-csharp-problem\Isogram.csproj" />
   </ItemGroup>
 
 </Project>
